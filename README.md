@@ -2,7 +2,7 @@
 
 Projeto de conclusão de curso da faculdade Cruzeiro do Sul no curso Sistema de Informação.
 
-## Getting Started
+## Informações Iniciais
 
 O Projeto consiste em um aplicativo hibrido aceito em IOS e Android desenvolvido pela linguagem de programação [Dart](https://dart.dev/), o framework [Flutter](https://flutter.dev/) e no backend usamos o Back4App.
 
